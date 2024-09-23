@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "OData Batch viewer",
+  "description": "Display OData batch requests and responses in a readable format",
+  "version": "0.1",
+  "action": {
+    "default_popup": "devtools.html"
+  },
+  "devtools_page": "devtools.html"
+}
